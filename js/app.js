@@ -12,7 +12,7 @@
             // })
             $(function () {
               let _window = $(window);
-              let nav = $("#nav");
+              let nav = $("#navbar");
               _window.on("scroll", function (){
                   let scrollToTop = _window.scrollTop();
           
